@@ -63,3 +63,7 @@ The waste data is stored in the `pod_data.csv` file. The file contains the follo
 - `public/index.html`: The HTML file that displays the user interface and chart.
 - `public/script.js`: The JavaScript file that fetches data from the server, handles user interactions, and updates the chart.
 - `pod_data.csv`: The CSV file containing the waste data.
+
+## Author
+
+Laura Hall Holla
