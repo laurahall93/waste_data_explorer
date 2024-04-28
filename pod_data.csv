@@ -1,0 +1,41 @@
+Customer,Site,Year,Month,Waste Type,Estimated quantity (kg),Actual quantity (kg)
+Acme Waste,Left Over City,2019,1,Sewage,221,200
+Sim City Council,Mega Depot,2018,1,Mixed,596,105
+Acme's Recycling,Acme Compost Silo,2019,1,Food Waste,527,567
+Acme Waste,Left Over City,2019,2,Sewage,206,254
+Sim City Council,Mega Depot,2018,2,Mixed,226,527
+Acme's Recycling,Acme Compost Silo,2019,2,Food Waste,226,157
+Acme Waste,Left Over City,2019,3,Sewage,134,112
+Sim City Council,Mega Depot,2018,3,Mixed,111,226
+Acme's Recycling,Acme Compost Silo,2019,3,Food Waste,198,
+Acme Waste,Left Over City,2019,4,Sewage,539,540
+Acme Waste,Left Over Farm,2019,4,Agriculture,195,105
+Sim City Council,Mega Depot,2018,4,Sewage,135,
+Acme's Recycling,Acme Compost Silo,2019,4,Food Waste,235,160
+Acme Waste,Left Over City,2019,5,Sewage,567,
+Acme Waste,Left Over Farm,2019,5,Agriculture,132,568
+Sim City Council,Mega Depot,2018,5,Sewage,231,206
+Acme's Recycling,Acme Compost Silo,2019,5,Food Waste,494,528
+Acme Waste,Left Over City,2019,6,Sewage,157,158
+Acme Waste,Left Over Farm,2019,6,Agriculture,152,201
+Sim City Council,Mega Depot,2018,6,Mixed,536,134
+Acme's Recycling,Acme Compost Silo,2019,6,Food Waste,181,596
+Acme Waste,Left Over City,2019,7,Sewage,527,500
+Acme Waste,Left Over Farm,2019,7,Agriculture,555,111
+Sim City Council,Mega Depot,2018,7,Mixed,105,539
+Acme's Recycling,Acme Compost Silo,2019,7,Food Waste,568,226
+Acme Waste,Left Over City,2019,8,Sewage,238,226
+Acme Waste,Left Over Farm,2019,8,Agriculture,215,135
+Acme's Recycling,Acme Compost Silo,2019,8,Food Waste,201,111
+Acme Waste,Left Over City,2019,9,Sewage,585,111
+Acme Waste,Left Over Farm,2019,9,Agriculture,114,231
+Acme's Recycling,Acme Compost Silo,2019,9,Food Waste,111,135
+Acme Waste,Left Over City,2019,10,Sewage,125,135
+Acme Waste,Left Over Farm,2019,10,Agriculture,140,536
+Acme's Recycling,Acme Compost Silo,2019,10,Food Waste,135,231
+Acme Waste,Left Over City,2019,11,Sewage,150,231
+Acme Waste,Left Over Farm,2019,11,Agriculture,160,
+Acme's Recycling,Acme Compost Silo,2019,11,Food Waste,231,536
+Acme Waste,Left Over City,2019,12,Sewage,569,536
+Acme Waste,Left Over Farm,2019,12,Agriculture,528,536
+Acme's Recycling,Acme Compost Silo,2019,12,Food Waste,536,494
