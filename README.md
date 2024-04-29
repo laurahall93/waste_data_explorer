@@ -9,7 +9,7 @@ Waste Data Explorer is a web application that visualizes waste data using Node.j
 2. Clone the repository or download the source code:
 
    ```bash
-   git clone https://github.com/your-username/waste-data-explorer.git
+   git clone https://github.com/laurahall93/waste_data_explorer.git
    ```
 
 3. Navigate to the project directory:
